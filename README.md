@@ -1,4 +1,4 @@
-![](github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 
 <h2 align="left">About me:</h2>
